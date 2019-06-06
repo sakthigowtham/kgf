@@ -1,5 +1,5 @@
-n = int(input(" "))
-e = int(input("  "))
+n = int(input(""))
+e = int(input(""))
 p = 1
 
 for i in range(1, e + 1):
