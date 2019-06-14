@@ -1,9 +1,9 @@
-n=input();
-isu=0
-for i in n:
-    if ((i=='0') or (i=='1')):
-        y+=1
-if(isu==len(n)):
-    print("yes")
+s=input()
+b=0
+for j in hs:
+	if(j=='1' or j=='0'):
+		b=b+1
+if(b==len(s)):
+	print("yes");
 else:
-    print("no")
+	print("no");
